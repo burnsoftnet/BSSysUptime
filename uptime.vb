@@ -51,7 +51,7 @@ Public Module Uptime
             Dim dBuffer As Double
             Dim lUnitBuff As Long
             Dim sOutput As String
-            Dim a As Long
+
             Dim MyAppPath As String = System.Environment.CurrentDirectory
             Dim MyAppName As String = System.Environment.CommandLine
 
