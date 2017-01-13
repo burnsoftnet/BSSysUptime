@@ -23,9 +23,8 @@ Public Module Uptime
         End If
     End Sub
     Sub ShowHelp()
-        Console.WriteLine(vbNewLine & "BurnSoft System Uptime Tool")
+        Console.WriteLine(My.Application.Info.ProductName & ".exe  " & My.Application.Info.Copyright)
         Console.WriteLine(String.Format("Version {0}", Application.ProductVersion.ToString))
-        Console.WriteLine(My.Application.Info.ProductName & "  " & My.Application.Info.Copyright)
         Console.WriteLine()
         Console.WriteLine("uptime /host=[machine] /copy /only /nodisplay /noevent /help /?" & vbNewLine)
         Console.WriteLine(vbTab & "/host=[machine] - Optional is you want to check a remote machine, otherwise it will look at local.")

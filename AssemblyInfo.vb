@@ -12,8 +12,8 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("This application will display the system uptime of a selected machine.")> 
 <Assembly: AssemblyCompany("BurnSoft")> 
 <Assembly: AssemblyProduct("BurnSoft System Uptime Checker")>
-<Assembly: AssemblyCopyright("All Rights Reserved BurnSoft 2006-2016")>
-<Assembly: AssemblyTrademark("CopyRight 2006-2016 by BurnSoft www.burnsoft.net, www.burnsoft.org")>
+<Assembly: AssemblyCopyright("All Rights Reserved BurnSoft 2006-2017")>
+<Assembly: AssemblyTrademark("CopyRight 2006-2017 by BurnSoft www.burnsoft.net, www.burnsoft.org")>
 <Assembly: CLSCompliant(True)> 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
